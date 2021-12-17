@@ -8,12 +8,11 @@
 ![Основни подаци](image2.png)
 
 ---
-**NOTE**
-- Token adresa: CuStQeCcs9fmQAziyMETjnmqjMYC3EpY5pxijvi6Q7A8
-- Token Ime: Cyber Block
-- Token Simbol: CYB
-- Ukupan broj tokena: 10,000,000.00
-- Decimala: 9
+- Токен адреса: CuStQeCcs9fmQAziyMETjnmqjMYC3EpY5pxijvi6Q7A8
+- Токен име: Cyber Block
+- Токен симбол: CYB
+- Укупан број токена: 10,000,000.00
+- Децимала: 9
 ---
 ### Остали подаци
 ![Остали подаци](image1.png)
