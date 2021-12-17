@@ -6,6 +6,7 @@
 ---
 ### Основни подаци
 ![Основни подаци](image2.png)
+
 ---
 **NOTE**
 - Token adresa: CuStQeCcs9fmQAziyMETjnmqjMYC3EpY5pxijvi6Q7A8
@@ -17,6 +18,7 @@
 ### Остали подаци
 ![Остали подаци](image1.png)
 ---
+
 ## Употреба
 
 Токен креиран на Solana blockchain мрежи.
